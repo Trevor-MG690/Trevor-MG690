@@ -22,8 +22,8 @@
 
 |  Tool  |    Purpose  |  Link  |
 |--------|-------------|--------|
-|Python  |Basic coding |        |
-|Github  |Managing projects|    |
+|Python  |Basic coding |  https://www.python.org/|
+|Github  |Managing projects| https://github.com/|
 
 ## Task List
 - [x] Opening up a github account.

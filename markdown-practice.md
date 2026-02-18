@@ -48,7 +48,7 @@ My name is **Trevor Mbiriri** I am a student at *IYF We Can Academy* curently st
 
 I use [Github](https://github.com/dashboard) and [FreeCodeCamp](https://www.freecodecamp.org/) to study Coding and AI development.
 
-### My objectives this month
+### My objectives this month.
 - [x] Learn the basics of coding and basic coding syntaxes.
 - [x] Open up a Github account.
 - [x] Create my first repository.

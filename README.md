@@ -14,7 +14,7 @@
 
 ## How to Reach Me
 - Email: [greatgaming656@gmail.vom]
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: [www.linkedin.com/in/trevor-mbiriri-b55a103b0]
 
 <!--
 **Trevor-MG690/Trevor-MG690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
